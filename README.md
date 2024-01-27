@@ -3,6 +3,10 @@
 
 An advanced image segmentation project utilizing machine learning techniques to accurately segment objects from RGB images using TensorFlow and OpenCV.
 
+
+![Overview](https://github.com/mayankbaluni/image_segmentation/blob/main/img/banner.png)
+
+
 ## Installation
 
 To set up the project environment, follow these steps:
