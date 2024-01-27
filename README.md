@@ -40,6 +40,3 @@ Place your dataset in the `data` directory. Refer to the data/README.md for deta
 
 Contributions to the project are welcome. Please ensure to update tests as appropriate.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
