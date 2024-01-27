@@ -1,0 +1,7 @@
+cv2
+google
+matplotlib
+numpy
+tensorflow
+tensorflow_datasets
+tensorflow_examples
