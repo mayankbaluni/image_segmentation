@@ -13,7 +13,7 @@ To set up the project environment, follow these steps:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/your-username/Image-Segmentation.git
+   git clone https://github.com/mayankbaluni/image_segmentation.git
    cd Image-Segmentation
    ```
 
